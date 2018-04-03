@@ -1,0 +1,17 @@
+CoenraadS.bracket-pair-colorizer
+adityavm.vscode-monokai-seti
+canna.box-comment
+dbaeumer.vscode-eslint
+eamodio.gitlens
+emmanuelbeziat.vscode-great-icons
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+humao.rest-client
+joelday.docthis
+kamikillerto.vscode-colorize
+pnp.polacode
+shinnn.stylelint
+spywhere.guides
+vscodevim.vim
+wayou.vscode-todo-highlight
+yahya-gilany.vscode-clock

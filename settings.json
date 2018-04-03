@@ -1,0 +1,67 @@
+{
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "DejaVu Sans Code, monospace",
+    "window.newWindowDimensions": "inherit",
+    "html.experimental.syntaxFolding": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "todohighlight.keywords": [
+        {
+            "text": "FIXME",
+            "color": "#F92672",
+            "backgroundColor": "transparent",
+            "fontStyle": "italic"
+        },
+        {
+            "text": "TODO",
+            "color": "#66D9EF",
+            "backgroundColor": "",
+            "fontStyle": "italic"
+        },
+        {
+            "text": "@param",
+            "color": "#66D9EF",
+            "backgroundColor": "transparent",
+            "fontStyle": "italic",
+        },
+        {
+            "text": "@return",
+            "color": "#66D9EF",
+            "backgroundColor": "transparent",
+            "fontStyle": "italic",
+        },
+    ],
+    "workbench.statusBar.visible": true,
+    "editor.renderWhitespace": "none",
+    "workbench.sideBar.location": "left",
+    "editor.fontLigatures": true,
+    "workbench.activityBar.visible": false,
+    "eslint.packageManager": "yarn",
+    "editor.wordWrap": "on",
+    "editor.scrollBeyondLastLine": false,
+    "editor.smoothScrolling": true,
+    "eslint.autoFixOnSave": true,
+    "editor.tabCompletion": true,
+    "editor.renderIndentGuides": false,
+    "guides.active.style": "solid",
+    "guides.normal.style": "dashed",
+    "guides.normal.color.dark": "rgba(255, 255, 255, 0.05)",
+    "guides.active.color.dark": "rgba(255, 255, 255, 0.1)",
+    "guides.stack.enabled": false,
+    "workbench.colorTheme": "Monokai Seti",
+    "editor.minimap.renderCharacters": false,
+    "colorize.files_extensions": [
+        ".scss",
+        ".css",
+        ".json",
+    ],
+    "workbench.startupEditor": "none",
+    "editor.minimap.showSlider": "always",
+    "explorer.openEditors.visible": 0,
+    "clock.datetimeFormat": "hh:mm",
+    "git.autofetch": true,
+    "window.zoomLevel": -0.5,
+}
