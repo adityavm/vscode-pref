@@ -43,7 +43,7 @@
     "editor.wordWrap": "on",
     "editor.scrollBeyondLastLine": false,
     "editor.smoothScrolling": true,
-    "eslint.autoFixOnSave": true,
+    "eslint.autoFixOnSave": false,
     "editor.tabCompletion": true,
     "editor.renderIndentGuides": false,
     "guides.active.style": "solid",
@@ -64,4 +64,5 @@
     "clock.datetimeFormat": "hh:mm",
     "git.autofetch": true,
     "window.zoomLevel": -0.5,
+    "eslint.run": "onSave",
 }
